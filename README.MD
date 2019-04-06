@@ -24,11 +24,11 @@ Bora lá?
 
 URL: https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/#searchexamples
 
-# Cenários:
--Listar e filtrar artista/album/musica
--Adicionar artista/album/musica
--Atualizar artista/album/musica
--Deletar artista/album/musica
+Cenários:
+* Listar e filtrar artista/album/musica
+* Adicionar artista/album/musica
+* Atualizar artista/album/musica
+* Deletar artista/album/musica
 
 ## Ganhe Pontos Conosco :)
 
