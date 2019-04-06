@@ -16,6 +16,20 @@ Bora lá?
 - Fazer testes unitários;
 - Clean code.
 
+* Deverá ser possível consultar todos os álbuns e músicas de um certo artista e manipulá-los a partir de endpoints REST. 
+* Deverá ser possível filtrar esses dados, como por exemplo: Ver somente as musicas de um album desejado; remover ou adicionar novas musicas deste album.
+* É importante que seja feita a consulta a partir da API do Itunes para obter informações já existentes.
+* Caso necessário, normalizar os dados para que seja mais amigável ao usuário da API.
+
+
+URL: https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/#searchexamples
+
+# Cenários:
+-Listar e filtrar artista/album/musica
+-Adicionar artista/album/musica
+-Atualizar artista/album/musica
+-Deletar artista/album/musica
+
 ## Ganhe Pontos Conosco :)
 
 * Documentação dos seus endpoints (ex: Arquivo texto / Swagger / Postman)
